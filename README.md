@@ -95,6 +95,9 @@ Depth of modulation ≈ 50%
 2.The device should be biased in the mid-NDR region (between peak and valley) for stable microwave oscillation.
 3.From PIN modulator measurements, a Δ of 6 dB between high/low detector readings gives an amplitude ratio ≈ 2, corresponding to ~50% modulation depth, indicating effective amplitude modulation by the PIN modulator.
 
+<img width="690" height="795" alt="image" src="https://github.com/user-attachments/assets/4b7ac5c6-34cb-4840-82e5-1bc795c27f13" />
+
+
 **D.Conclusions:**
 
 The Gunn diode exhibits clear negative differential resistance with a peak around 3 V and a valley around 7 V, confirming conditions required for Gunn oscillation. The PIN diode modulator achieved a modulation depth of ≈ 50%, showing good amplitude modulation of the microwave carrier.
